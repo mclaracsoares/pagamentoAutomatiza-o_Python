@@ -14,7 +14,7 @@ Python 3.x instalado.
 
 Um navegador web instalado e configurado (o script usa o Microsoft Edge).
 
-Bibliotecas PyAutoGUI e pandas instaladas (instale-as via pip se ainda não estiverem instaladas: pip install pyautogui pandas).
+Bibliotecas PyAutoGUI e pandas instaladas
 
 ### Instruções de Uso
 
