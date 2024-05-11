@@ -8,6 +8,8 @@ Maria Clara C Soares
 
 Linkedin: https://www.linkedin.com/in/maria-clara-soares-88b311271/
 
+Me faço a disposição para ajudar em quaisquer dúvidas ou dificuldades.
+
 ### Pré-requisitos
 
 Python 3.x instalado.
