@@ -5,9 +5,11 @@ Este é um script de automação desenvolvido em Python usando a biblioteca PyAu
 ### Autor
 
 Maria Clara C Soares
+
 Linkedin: https://www.linkedin.com/in/maria-clara-soares-88b311271/
 
 ### Pré-requisitos
+
 Python 3.x instalado.
 
 Um navegador web instalado e configurado (o script usa o Microsoft Edge).
