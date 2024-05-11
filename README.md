@@ -40,14 +40,16 @@ Você vai executar o arquivo Posição.py (na mesma pasta do main.py). Você ter
 
 1. Verifique se o Python está instalado
 
-python --version
+  python --version
 
-Se o Python estiver instalado, você verá a versão instalada. Se não estiver instalado, você precisará instalá-lo primeiro.
+  Se o Python estiver instalado, você verá a versão instalada. Se não estiver instalado, você precisará instalá-lo primeiro.
 
 2. Baixe o script de instalação do pip: Você pode baixar o script de instalação do pip diretamente do site oficial. Para fazer isso, você pode usar curl (para sistemas Unix-like) ou wget. Execute o seguinte comando no terminal:
 
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
 ou
+
 wget https://bootstrap.pypa.io/get-pip.py
 
 3. Instale o pip: Agora que o script está instalado, você pode executá-lo usando o Python. No terminal, execute o seguinte comando:
