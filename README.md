@@ -90,4 +90,6 @@ Atualizações: Este script pode precisar de ajustes periódicos, especialmente 
 
 ### Aviso Legal
 
+Esse programa é 100% autoral, plágio é crime.
+
 Este script é fornecido apenas para fins educacionais e de demonstração. O uso deste script é de responsabilidade exclusiva do usuário. Não nos responsabilizamos por quaisquer danos ou consequências decorrentes do uso deste script.
